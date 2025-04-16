@@ -1,0 +1,301 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.11f1 (d00248457e15) revision 13632072'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 32469 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/nisha/Desktop/CSE 165 - 3D User Interaction/Assignment 1
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+50234
+Successfully changed project path to: C:/Users/nisha/Desktop/CSE 165 - 3D User Interaction/Assignment 1
+C:/Users/nisha/Desktop/CSE 165 - 3D User Interaction/Assignment 1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21452] Host "[IP] 100.81.33.188 [Port] 0 [Flags] 2 [Guid] 3264097577 [EditorId] 3264097577 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [21452] Host "[IP] 100.81.33.188 [Port] 0 [Flags] 2 [Guid] 3264097577 [EditorId] 3264097577 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 31 workers.
+Refreshing native plugins compatible for Editor in 14.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.11f1 (d00248457e15)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/nisha/Desktop/CSE 165 - 3D User Interaction/Assignment 1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   31.0.15.5188
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016982 seconds.
+- Loaded All Assemblies, in  0.451 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.286 seconds
+Domain Reload Profiling: 733ms
+	BeginReloadAssembly (135ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (84ms)
+	LoadAllAssembliesAndSetupDomain (171ms)
+		LoadAssemblies (132ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (169ms)
+			TypeCache.Refresh (166ms)
+				TypeCache.ScanAssembly (151ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (287ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (216ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (137ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.601 seconds
+Refreshing native plugins compatible for Editor in 4.35 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.448 seconds
+Domain Reload Profiling: 1046ms
+	BeginReloadAssembly (121ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (14ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (407ms)
+		LoadAssemblies (345ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (136ms)
+			TypeCache.Refresh (120ms)
+				TypeCache.ScanAssembly (108ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (448ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (332ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (244ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 5.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3082 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (56.9 KB). Loaded Objects now: 3544.
+Memory consumption went from 124.1 MB to 124.0 MB.
+Total: 4.810300 ms (FindLiveObjects: 0.228400 ms CreateObjectMapping: 0.095200 ms MarkObjects: 4.361000 ms  DeleteObjects: 0.124400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 279440.035208 seconds.
+  path: Assets/Assets/Medical equipment/Medical packaging/Package_4.fbx
+  artifactKey: Guid(085e99675b720b644bb8c28a8098f35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical packaging/Package_4.fbx using Guid(085e99675b720b644bb8c28a8098f35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e66966f8660be3203146e59db19d5b') in 0.133432 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.062627 seconds.
+  path: Assets/Assets/Medical equipment/Medical packaging/Package_8.fbx
+  artifactKey: Guid(d9ab6b15aa0de1743b1f2d2754a9a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical packaging/Package_8.fbx using Guid(d9ab6b15aa0de1743b1f2d2754a9a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d21cf6a5fc97890640ce0c2aa4e3261') in 0.021453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Assets/Medical equipment/Medical packaging/Package_7.fbx
+  artifactKey: Guid(e9324e34c23a96e498938abc4c67058f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical packaging/Package_7.fbx using Guid(e9324e34c23a96e498938abc4c67058f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9ed85c4dc9985e2f305243af0f3b94') in 0.021488 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 2.746753 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_5.mat
+  artifactKey: Guid(850f6d3aff693ee42a5770fa5adfe859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_5.mat using Guid(850f6d3aff693ee42a5770fa5adfe859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e0d86dfbad507a2310135e6393e6c7b') in 0.060405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.048369 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_6.mat
+  artifactKey: Guid(2883091ee12d5634c8a320626c92d5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_6.mat using Guid(2883091ee12d5634c8a320626c92d5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3477a660e5887976e88092b70db4410') in 0.016643 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_8.fbx
+  artifactKey: Guid(b524f159026bcd049a928f7e6a4c9e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_8.fbx using Guid(b524f159026bcd049a928f7e6a4c9e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a9a43be266c3eee0e6100bb2b8a04b5') in 0.018974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_2_AlbedoTransparency.png
+  artifactKey: Guid(eb8a2447443979a4099191c9d2c5463d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_2_AlbedoTransparency.png using Guid(eb8a2447443979a4099191c9d2c5463d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c11ceefd053b4802f3a398fb976dc0') in 0.026774 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_10.fbx
+  artifactKey: Guid(6a1888757b57e8044bf12e0fbf1238e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_10.fbx using Guid(6a1888757b57e8044bf12e0fbf1238e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a9e753138d8d86ce6b4bafadca5300') in 0.022562 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_6_Normal.png
+  artifactKey: Guid(4f9d65b72c3b9b441ab8b28823c61057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_6_Normal.png using Guid(4f9d65b72c3b9b441ab8b28823c61057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e54277a5232b28af72be6118fc6e1d') in 0.023353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_4_Normal.png
+  artifactKey: Guid(263ea68843932c747873f91b5aca6920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_4_Normal.png using Guid(263ea68843932c747873f91b5aca6920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c62da883659a8edafbcb515a9695418') in 0.017608 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_12.fbx
+  artifactKey: Guid(d434febc40f368149bd639e7bf18af27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_12.fbx using Guid(d434febc40f368149bd639e7bf18af27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc36c322bf405b3283f2eead7fed4324') in 0.018518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_9.fbx
+  artifactKey: Guid(6fda59cad8aecc949af7754c494bbc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_9.fbx using Guid(6fda59cad8aecc949af7754c494bbc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bd96fd5f7cacd2a98de7fd8314d68f9') in 0.017848 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_14.mat
+  artifactKey: Guid(2a6b84d460764024197c5b5dfc8f4a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_14.mat using Guid(2a6b84d460764024197c5b5dfc8f4a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd453c2dee8faca4ac7583ef4d032b13') in 0.013749 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_4_MetallicSmoothness.png
+  artifactKey: Guid(0a48438b0c0de7a499fc66f1b741c00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_4_MetallicSmoothness.png using Guid(0a48438b0c0de7a499fc66f1b741c00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d27413ceb8a95640e9ebeaa7ecef53') in 0.018907 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,366 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.11f1 (d00248457e15) revision 13632072'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 32469 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/nisha/Desktop/CSE 165 - 3D User Interaction/Assignment 1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50234
+Successfully changed project path to: C:/Users/nisha/Desktop/CSE 165 - 3D User Interaction/Assignment 1
+C:/Users/nisha/Desktop/CSE 165 - 3D User Interaction/Assignment 1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [65000] Host "[IP] 100.81.33.188 [Port] 0 [Flags] 2 [Guid] 1702664272 [EditorId] 1702664272 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [65000] Host "[IP] 100.81.33.188 [Port] 0 [Flags] 2 [Guid] 1702664272 [EditorId] 1702664272 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 31 workers.
+Refreshing native plugins compatible for Editor in 8.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.11f1 (d00248457e15)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/nisha/Desktop/CSE 165 - 3D User Interaction/Assignment 1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   31.0.15.5188
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.018965 seconds.
+- Loaded All Assemblies, in  0.467 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.355 seconds
+Domain Reload Profiling: 821ms
+	BeginReloadAssembly (135ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (95ms)
+	LoadAllAssembliesAndSetupDomain (178ms)
+		LoadAssemblies (132ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (173ms)
+				TypeCache.ScanAssembly (157ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (358ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (275ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (177ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.288 seconds
+Refreshing native plugins compatible for Editor in 8.17 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.155 seconds
+Domain Reload Profiling: 2434ms
+	BeginReloadAssembly (296ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (66ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (98ms)
+	LoadAllAssembliesAndSetupDomain (799ms)
+		LoadAssemblies (649ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (333ms)
+			TypeCache.Refresh (296ms)
+				TypeCache.ScanAssembly (269ms)
+			ScanForSourceGeneratedMonoScriptInfo (25ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1156ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (849ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (628ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (21ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 6.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3082 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (56.9 KB). Loaded Objects now: 3544.
+Memory consumption went from 124.1 MB to 124.0 MB.
+Total: 4.975400 ms (FindLiveObjects: 0.335900 ms CreateObjectMapping: 0.116600 ms MarkObjects: 4.366700 ms  DeleteObjects: 0.154200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 279416.781419 seconds.
+  path: Assets/Assets/Tent
+  artifactKey: Guid(a212ae295dcc64786994c1c5cd675a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Tent using Guid(a212ae295dcc64786994c1c5cd675a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570e860e0ea59c3691d221555c07e9e2') in 0.002597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.426887 seconds.
+  path: Assets/Assets/Medical equipment
+  artifactKey: Guid(69f4b35fd84544bf09d50908da819335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment using Guid(69f4b35fd84544bf09d50908da819335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a5b465d7a756d66e0ab2a1618a72a4') in 0.000690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.622352 seconds.
+  path: Assets/Assets/VrLab
+  artifactKey: Guid(6e0e6b1fcf4de4c7b865bb90c3796cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/VrLab using Guid(6e0e6b1fcf4de4c7b865bb90c3796cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1dec58b86914e8834d52a96825bf3de') in 0.000532 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.081852 seconds.
+  path: Assets/Assets/VrLab/cabinet.fbx
+  artifactKey: Guid(165463d3e303f480e97f475c2660e6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/VrLab/cabinet.fbx using Guid(165463d3e303f480e97f475c2660e6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07676e226d19927853b71797649e68c') in 0.469264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Assets/VrLab/desk.fbx
+  artifactKey: Guid(1364c5286c8f041a4bc5ad362a366070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/VrLab/desk.fbx using Guid(1364c5286c8f041a4bc5ad362a366070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4ffbe24cc5202adea22a47cbcf6859') in 0.194450 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 189
+========================================================================
+Received Import Request.
+  Time since last request: 3.939813 seconds.
+  path: Assets/Assets/Tent/Tent-24Width-FBX.prefab
+  artifactKey: Guid(f11df41e8322543488f992f498ffe4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Tent/Tent-24Width-FBX.prefab using Guid(f11df41e8322543488f992f498ffe4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0394bc929a9473c3dc3980fa0f2aebf9') in 1.191467 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 383
+========================================================================
+Received Import Request.
+  Time since last request: 1.967067 seconds.
+  path: Assets/Assets/Tent/Model
+  artifactKey: Guid(84c86bc4ae82a4ef9b8493f7bc999b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Tent/Model using Guid(84c86bc4ae82a4ef9b8493f7bc999b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92de82f905cbd1514715737be34ea477') in 0.001126 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.059506 seconds.
+  path: Assets/Assets/Tent/Model/07 - Default.mat
+  artifactKey: Guid(16e83495dcc714fae83fa0d6cc3d8771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Tent/Model/07 - Default.mat using Guid(16e83495dcc714fae83fa0d6cc3d8771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92bd847190e0907d9b91eb59b02947fc') in 0.013416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.086114 seconds.
+  path: Assets/Assets/Tent/Model/fabric.mat
+  artifactKey: Guid(17eab469d2bb4415487465c54104933c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Tent/Model/fabric.mat using Guid(17eab469d2bb4415487465c54104933c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4131f5c463c28f6a260988a16bf83c') in 0.014998 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.096339 seconds.
+  path: Assets/Assets/Tent/Model/land.mat
+  artifactKey: Guid(9ee329755748f49929a6dd4d288fae6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Tent/Model/land.mat using Guid(9ee329755748f49929a6dd4d288fae6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084bae5daf785334092c31c491ce5573') in 0.011015 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.098825 seconds.
+  path: Assets/Assets/Tent/Model/Tent-24Width-FBX.FBX
+  artifactKey: Guid(515f34272ffea474d859dda040d1e270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Tent/Model/Tent-24Width-FBX.FBX using Guid(515f34272ffea474d859dda040d1e270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5e71ed525d5a78d98908e0a86098fe') in 0.841114 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1038
+========================================================================
+Received Import Request.
+  Time since last request: 7.117719 seconds.
+  path: Assets/Assets/Medical equipment/Medical packaging/Package_2.fbx
+  artifactKey: Guid(56b865a9420adac4e85fd8de6785a818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical packaging/Package_2.fbx using Guid(56b865a9420adac4e85fd8de6785a818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ece67657cacaf994582d7cd086ca7d') in 0.245957 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 2.742712 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_3.mat
+  artifactKey: Guid(3b42b9f0df7046c46b4405fd21272e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_3.mat using Guid(3b42b9f0df7046c46b4405fd21272e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88532638c4319a4090348d180c89128e') in 0.018109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.093110 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_10.mat
+  artifactKey: Guid(a8e05460d790c2c4ba8f2b59ffa9fcd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_10.mat using Guid(a8e05460d790c2c4ba8f2b59ffa9fcd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d102d73e1492590f27e87a6a44112d1') in 0.018486 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_13.fbx
+  artifactKey: Guid(3d3eedb714414844bbf5faff4575597a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_13.fbx using Guid(3d3eedb714414844bbf5faff4575597a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0add258c7866536f959321ab1b57f4') in 0.027851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_6_AlbedoTransparency.png
+  artifactKey: Guid(1845e277ae5c24d45ac3c87986f94bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_6_AlbedoTransparency.png using Guid(1845e277ae5c24d45ac3c87986f94bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837f9495ab05052648e9e3e68a17f0ca') in 0.025359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_3.fbx
+  artifactKey: Guid(e4b8795b16b07ab46921b847e404d518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/Medical_instrument_3.fbx using Guid(e4b8795b16b07ab46921b847e404d518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae5cf83f9068d159b2e5db6cc8d6800') in 0.017371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/Sterilizing_chamber_1.fbx
+  artifactKey: Guid(655757b2fd519e74ba332ec86a35e72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/Sterilizing_chamber_1.fbx using Guid(655757b2fd519e74ba332ec86a35e72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354e39688e670cd5aba1f01211dc8c11') in 0.023468 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_12.mat
+  artifactKey: Guid(135030d01d6933946b654b60e81cd939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/M_Medical_instrument_12.mat using Guid(135030d01d6933946b654b60e81cd939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92ff2c5613660928b5746521e859051') in 0.011777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_7_AlbedoTransparency.png
+  artifactKey: Guid(dd698e956e6ad4f4f90b0be0eed23dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_7_AlbedoTransparency.png using Guid(dd698e956e6ad4f4f90b0be0eed23dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba71495e258cde168d578cfa2e8a8bad') in 0.022560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_3_Normal.png
+  artifactKey: Guid(43887c21b31007049b197eb47682aa61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_3_Normal.png using Guid(43887c21b31007049b197eb47682aa61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c319bbd1e6e8ec8fb7c8723d17f2671d') in 0.029383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_1_Normal.png
+  artifactKey: Guid(406a473f8ed04714ebc4608443b7bdfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Medical equipment/Medical instruments/T_Medical_instrument_1_Normal.png using Guid(406a473f8ed04714ebc4608443b7bdfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0d3a63a4bcd5d5d88d8a1696661853') in 0.020831 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
